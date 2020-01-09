@@ -1,1 +1,1 @@
-# aop_nm_grouping
+# AOP-based ENM Grouping (and Ranking)
